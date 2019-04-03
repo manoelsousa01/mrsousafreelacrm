@@ -1,2 +1,3 @@
-# mrsousafreelacrm
-Projeto Completo para Gestão de Freelancers
+# b7freelacrm
+
+Projeto legal de um sistema de gestão COMPLETO para freelancers.
