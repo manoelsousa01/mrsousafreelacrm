@@ -1,2 +1,2 @@
 # mrsousafreelacrm
-Projeto WebService para Gerir Freelances
+Projeto WebService Completo para Gerir Freelancers
